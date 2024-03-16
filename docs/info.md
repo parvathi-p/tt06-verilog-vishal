@@ -7,14 +7,14 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-#how it works
+##how it works
 
 when a and b varry
 
-#how are you
+##how are you
 
 half adder
 
-#internal hardware
+##internal hardware
 
 full adder
