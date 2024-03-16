@@ -7,7 +7,7 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## How it works
+kaun ho tum
 
 how it works
 
@@ -15,6 +15,6 @@ how are you
 
 Explain how to use your project
 
-## External hardware
+what you want
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
