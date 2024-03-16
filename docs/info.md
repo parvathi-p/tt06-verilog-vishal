@@ -15,6 +15,6 @@ when a and b varies sum become 1
 
 half adder
 
-## internal hardware
+## external hardware
 
 full adder
