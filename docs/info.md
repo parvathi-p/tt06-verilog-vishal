@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## how it works
 
-when a and b varry
+when a and b varies sum become 1
 
 ## how are you
 
