@@ -13,8 +13,8 @@ how it works
 
 how are you
 
-Explain how to use your project
+#Explain how to use your project
 
-what you want
+#what you want
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
