@@ -11,7 +11,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 when a and b varies sum become 1
 
-## how are you
+## how to test
 
 half adder
 
